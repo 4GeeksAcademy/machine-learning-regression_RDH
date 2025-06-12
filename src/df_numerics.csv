@@ -1,4 +1,4 @@
-age,bmi,children,charges,sex_encoded,smoker_encoded,region_northeast_bin,region_northwest_bin,region_southeast_bin
+age,bmi,children,charges,sex_encoded,smoker_encoded,region_northeast,region_northwest,region_southeast
 19,27.9,0,16884.924,0,1,0,0,0
 18,33.77,1,1725.5523,1,0,0,0,1
 28,33.0,3,4449.462,1,0,0,0,1
